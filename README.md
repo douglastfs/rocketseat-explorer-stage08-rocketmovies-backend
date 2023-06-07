@@ -1,4 +1,4 @@
-### API backend RocketMovies
+# API backend RocketMovies
 
 Projeto 12 do curso explorer da Rocketseat: Stage 08.
 
